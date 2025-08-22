@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "68a66377746f8f21a9afa842"
+  },
+  "nombre": "fortnite",
+  "genero": "Battle Royal"
+},
+{
+  "_id": {
+    "$oid": "68a66377746f8f21a9afa843"
+  },
+  "nombre": "call of duty",
+  "genero": "Shooter"
+},
+{
+  "_id": {
+    "$oid": "68a66377746f8f21a9afa844"
+  },
+  "nombre": "minecraft",
+  "genero": "Supervivencia"
+},
+{
+  "_id": {
+    "$oid": "68a66377746f8f21a9afa845"
+  },
+  "nombre": "FIFA",
+  "genero": "Deportes"
+},
+{
+  "_id": {
+    "$oid": "68a66377746f8f21a9afa846"
+  },
+  "nombre": "Elden Ring",
+  "genero": "RPG"
+}]
