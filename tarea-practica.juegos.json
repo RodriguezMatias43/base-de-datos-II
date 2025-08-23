@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "68a929f5e4de85579d732e6e"
+  },
+  "nombre": "Fortnite",
+  "genero": "Battle Royal",
+  "anio": 2017
+},
+{
+  "_id": {
+    "$oid": "68a929f5e4de85579d732e6f"
+  },
+  "nombre": "Call of Duty",
+  "genero": "Shooter",
+  "anio": 2003
+},
+{
+  "_id": {
+    "$oid": "68a929f5e4de85579d732e70"
+  },
+  "nombre": "Minecraft",
+  "genero": "Supervivencia",
+  "anio": 2011
+},
+{
+  "_id": {
+    "$oid": "68a929f5e4de85579d732e71"
+  },
+  "nombre": "FIFA",
+  "genero": "Deportes",
+  "anio": 2023
+},
+{
+  "_id": {
+    "$oid": "68a929f5e4de85579d732e72"
+  },
+  "nombre": "Elden Ring",
+  "genero": "RPG",
+  "anio": 2022
+}]
