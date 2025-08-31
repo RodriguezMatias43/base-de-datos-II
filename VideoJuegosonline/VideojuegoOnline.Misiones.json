@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "68b4214fda4f679630f9a701"
+  },
+  "Titulo": "Derrotar al dragón",
+  "Descripcion": "Vence al dragón en el volcán.",
+  "Recompensa": {
+    "Oro": 500,
+    "Exp": 1200
+  }
+},
+{
+  "_id": {
+    "$oid": "68b4214fda4f679630f9a702"
+  },
+  "Titulo": "Recolectar hierbas",
+  "Descripcion": "Recolecta 10 hierbas medicinales en el bosque.",
+  "Recompensa": {
+    "Oro": 100,
+    "Exp": 200
+  }
+},
+{
+  "_id": {
+    "$oid": "68b4214fda4f679630f9a703"
+  },
+  "Titulo": "Rescatar al aldeano",
+  "Descripcion": "Salva al aldeano atrapado en la cueva.",
+  "Recompensa": {
+    "Oro": 300,
+    "Exp": 600
+  }
+}]

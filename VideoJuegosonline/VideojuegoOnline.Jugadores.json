@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "68b420f1da4f679630f9a6ee"
+  },
+  "Nombre": "DragonSlayer",
+  "Nivel": 20,
+  "Experiencia": 24389,
+  "Inventario": [
+    {
+      "item_id": "objeto_1",
+      "cantidad": 5
+    }
+  ],
+  "Logros": [
+    "Primera Victoria",
+    "Cazador de Dragones"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68b420f1da4f679630f9a6ef"
+  },
+  "Nombre": "ShadowHunter",
+  "Nivel": 15,
+  "Experiencia": 17800,
+  "Inventario": [
+    {
+      "item_id": "objeto_2",
+      "cantidad": 2
+    },
+    {
+      "item_id": "objeto_3",
+      "cantidad": 1
+    }
+  ],
+  "Logros": [
+    "Maestro del Sigilo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68b420f1da4f679630f9a6f0"
+  },
+  "Nombre": "MageMaster",
+  "Nivel": 10,
+  "Experiencia": 8900,
+  "Inventario": [
+    {
+      "item_id": "objeto_4",
+      "cantidad": 7
+    }
+  ],
+  "Logros": [
+    "Maestro de Magia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68b420f1da4f679630f9a6f1"
+  },
+  "Nombre": "ElfArcher",
+  "Nivel": 8,
+  "Experiencia": 5200,
+  "Inventario": [
+    {
+      "item_id": "objeto_5",
+      "cantidad": 10
+    }
+  ],
+  "Logros": [
+    "Tirador Experto"
+  ]
+}]

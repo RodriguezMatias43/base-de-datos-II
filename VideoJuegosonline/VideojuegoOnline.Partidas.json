@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "68b42138da4f679630f9a6fc"
+  },
+  "Jugadores": [
+    {
+      "jugador_id": "DragonSlayer",
+      "Puntaje": 350
+    },
+    {
+      "jugador_id": "ShadowHunter",
+      "Puntaje": 200
+    }
+  ],
+  "Mapa": "Bosque Encantado",
+  "Duracion_Minutos": 25,
+  "Fecha": "2025-08-27"
+},
+{
+  "_id": {
+    "$oid": "68b42138da4f679630f9a6fd"
+  },
+  "Jugadores": [
+    {
+      "jugador_id": "DragonSlayer",
+      "Puntaje": 400
+    },
+    {
+      "jugador_id": "MageMaster",
+      "Puntaje": 300
+    }
+  ],
+  "Mapa": "Montaña Helada",
+  "Duracion_Minutos": 30,
+  "Fecha": "2025-08-28"
+},
+{
+  "_id": {
+    "$oid": "68b42138da4f679630f9a6fe"
+  },
+  "Jugadores": [
+    {
+      "jugador_id": "ElfArcher",
+      "Puntaje": 280
+    },
+    {
+      "jugador_id": "MageMaster",
+      "Puntaje": 310
+    }
+  ],
+  "Mapa": "Valle Oculto",
+  "Duracion_Minutos": 20,
+  "Fecha": "2025-08-29"
+}]
