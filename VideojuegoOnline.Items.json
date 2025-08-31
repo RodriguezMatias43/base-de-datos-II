@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "68b420e4da4f679630f9a6e8"
+  },
+  "Nombre": "Espada Larga",
+  "Tipo": "Arma",
+  "Rareza": "Poco Comun",
+  "Atributos": {
+    "Ataque": 250,
+    "Durabilidad": 80
+  }
+},
+{
+  "_id": {
+    "$oid": "68b420e4da4f679630f9a6e9"
+  },
+  "Nombre": "Arco Magico",
+  "Tipo": "Arma",
+  "Rareza": "Raro",
+  "Atributos": {
+    "Ataque": 180,
+    "Durabilidad": 100
+  }
+},
+{
+  "_id": {
+    "$oid": "68b420e4da4f679630f9a6ea"
+  },
+  "Nombre": "Pocion de Vida",
+  "Tipo": "Consumible",
+  "Rareza": "Comun",
+  "Atributos": {
+    "Curacion": 50
+  }
+},
+{
+  "_id": {
+    "$oid": "68b420e4da4f679630f9a6eb"
+  },
+  "Nombre": "Escudo Antiguo",
+  "Tipo": "Defensa",
+  "Rareza": "Epico",
+  "Atributos": {
+    "Defensa": 150,
+    "Durabilidad": 120
+  }
+}]
